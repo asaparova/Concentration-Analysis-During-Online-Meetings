@@ -83,3 +83,18 @@ Models were tested using personal photos and recorded videos. Eye detection was 
 
 ---
 
+## Future Work
+
+- Integrate real-time feedback system
+- Add gaze tracking and fixation heatmaps
+- Improve robustness to occlusions and lighting conditions
+
+---
+
+## References
+
+- [YawDD: Yawning Detection Dataset](https://dx.doi.org/10.21227/e1qm-hb90)
+- Le et al., “Analysis of Students’ Concentration Levels,” IEEE Big Data, 2021.
+- Krithika & Priya, “Student Emotion Recognition System,” Procedia CS, 2016.
+
+---
