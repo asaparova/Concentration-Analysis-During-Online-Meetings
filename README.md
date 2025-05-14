@@ -1,6 +1,6 @@
 # Concentration Analysis During Online Meetings (CNN-based)
 
-This project implements a concentration analysis system for online meetings using **Convolutional Neural Networks (CNNs)**. It detects key facial features—**eye closure**, **yawning**, and **head rotation**—to estimate a participant’s concentration level. 
+This project implements a concentration analysis system for online meetings using **Convolutional Neural Networks (CNNs)**. It detects key facial features—**eye closure**, **yawning**, and **head rotation**—to estimate a participant’s concentration level. The project was developed with Laura Janikeshova (lawooorah) as part of a bachelor's university course. 
 
 ---
 
